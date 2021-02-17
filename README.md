@@ -2,7 +2,7 @@
 
 ### I'm Vestige, I code malicous and security based shit in C# and C++ and C
 
-### [Incase you cared, I have a discord server for my company](https://discord.gg/vun6j4vSdX)
+### [VNetwork Security UK LTD](https://discord.gg/vun6j4vSdX)
 
 -----------------
 
