@@ -1,6 +1,6 @@
 # Sup Fuckers!
 
-### I'm Vestige, I code malicous and security based shit in C# and C++ and C
+### I'm Vestige, I code malicous and security based shit in C# and C++
 
 ### [VNetwork Security UK LTD](https://discord.gg/vun6j4vSdX)
 
