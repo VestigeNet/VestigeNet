@@ -12,7 +12,7 @@
 * This is a security based company that focuses on everything around DDos and API
 * Our aim is to code products and provide them for reasonable prices for pentesting
 * We code OVH and Panels as well as custom API and Methods
-#### [VNetwork Security UNHITTABLE LTD (in heavy development)](https://discord.gg/vun6j4vSdX)
+#### [VNetwork Security UNHITTABLE LTD (active development)](https://discord.gg/vun6j4vSdX)
 * This is our OVH 
 * Are OVH is pretty much unhittable
 * Gamers are provided with a smooth gaming expereince 
