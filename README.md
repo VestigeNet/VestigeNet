@@ -1,4 +1,4 @@
-# Sup fuckers!
+# Sup Fuckers!
 
 ### I'm Vestige, I code malicous and security based shit in C# and C++ and C
 
