@@ -9,7 +9,7 @@
 ### Stuff I'm working on right now:
 
 #### [VNetwork Security LTD](https://discord.gg/vun6j4vSdX)
-* This is a security based company that focuses on everything around DDos and API
+* This is a security based company that focuses on everything around EXPLOITS and API
 * Our aim is to code products and provide them for reasonable prices for pentesting
 * We code OVH and Panels as well as custom API and Methods
 #### [VNetwork Security UNHITTABLE LTD (active development)](https://discord.gg/vun6j4vSdX)
@@ -22,6 +22,6 @@
 
 ### [About VNetwork Security LTD](https://discord.gg/vun6j4vSdX)
 * Projects we are working on
-* *VNetwork Security DDOS PANEL*
+* *VNetwork Security EXPLOITS PANEL*
 * *VNetwork Security OVH LTD*
 * https://www.vnetworksecurity.co.uk
